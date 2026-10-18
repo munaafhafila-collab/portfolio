@@ -69,8 +69,8 @@ export const PERSONAL_INFO = {
   ],
   heroBio:
     "I help businesses grow online through strategic digital marketing, engaging content, search engine optimization, and data-driven campaigns that attract the right audience and drive meaningful results.",
-  email: "anisa.hafila.marketing@gmail.com",
-  linkedin: "https://www.linkedin.com/feed/",
+  email: "anisahafila0@gmail.com",
+  linkedin: "https://www.linkedin.com/in/anisa-hafila",
   github: "https://github.com",
   location: "Open to Remote & On-Site Opportunities",
   rotatingTitles: [
