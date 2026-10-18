@@ -61,6 +61,7 @@ export default function CaseStudyModal({ project, onClose }: CaseStudyModalProps
             src={project.thumbnail}
             alt={project.title}
             fill
+            sizes="(max-width: 768px) 100vw, 896px"
             className="object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#0B1120] via-[#0B1120]/60 to-transparent" />

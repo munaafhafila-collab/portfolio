@@ -55,8 +55,8 @@ export default function About() {
           <div className="lg:col-span-5 relative flex justify-center">
             <div className="relative w-full max-w-sm">
               {/* Outer decorative gradient border */}
-              <div className="relative rounded-3xl p-1 bg-gradient-to-b from-indigo-500/30 via-purple-500/20 to-cyan-500/30 shadow-2xl shadow-indigo-950/70">
-                <div className="relative rounded-[22px] overflow-hidden bg-[#0e1628] aspect-[4/5]">
+              <div className="relative w-full rounded-3xl p-1 bg-gradient-to-b from-indigo-500/30 via-purple-500/20 to-cyan-500/30 shadow-2xl shadow-indigo-950/70">
+                <div className="relative w-full aspect-[4/5] min-h-[440px] sm:min-h-[480px] rounded-[22px] overflow-hidden bg-[#0e1628]">
                   <Image
                     src="/images/anisa-portrait.jpg"
                     alt="Anisa Hafila - Aspiring Digital Marketer"
